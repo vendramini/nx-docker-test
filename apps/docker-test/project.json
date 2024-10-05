@@ -1,0 +1,9 @@
+{
+  "name": "docker-test",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/docker-test",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project docker-test --web",
+  "targets": {}
+}
